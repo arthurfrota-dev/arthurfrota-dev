@@ -30,3 +30,12 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
   <img src="https://img.shields.io/github/commit-activity/t/arthurfrota-dev/arthurfrota-dev?style=for-the-badge&color=purple&logo=github&label=Commits"/>
   <img src="https://img.shields.io/github/stars/arthurfrota-dev?style=for-the-badge&color=purple&logo=github&label=Estrelas"/>
 </p>
+
+### 🛠️ Ferramentas e Ambiente
+
+<p>
+  <img src="https://img.shields.io/badge/Git-614987?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-241b35?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-3B2254?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
