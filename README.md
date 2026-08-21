@@ -1,6 +1,6 @@
 ## 𝙿𝚛𝚊𝚣𝚎𝚛, 𝚎𝚞 𝚜𝚘𝚞 𝚘 𝙰𝚛𝚝𝚑𝚞𝚛 𝙵𝚛𝚘𝚝𝚊
 
-Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com Java, JavaScript e TypeScript, enfrentando desafios para evoluir constantemente como desenvolvedor.
+Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com Java, JavaScript e TypeScript e C++, enfrentando desafios para evoluir constantemente como desenvolvedor.
 
 ### 🌐 Conecte-se comigo
 
