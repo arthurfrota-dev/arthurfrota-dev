@@ -32,3 +32,13 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 <p>
   <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+
+
+### 📄 Currículo
+
+<p>
+  <a href="https://github.com/arthurfrota-dev/arthurfrota-dev/blob/main/curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Currículo-614987?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+</p>
