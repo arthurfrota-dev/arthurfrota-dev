@@ -1,6 +1,6 @@
 ## 𝙿𝚛𝚊𝚣𝚎𝚛, 𝚎𝚞 𝚜𝚘𝚞 𝚘 𝙰𝚛𝚝𝚑𝚞𝚛 𝙵𝚛𝚘𝚝𝚊
 
-Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com Java, JavaScript e TypeScript e C++, enfrentando desafios para evoluir constantemente como desenvolvedor.
+Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com JavaScript e C++, enfrentando desafios para evoluir constantemente como desenvolvedor.
 
 ### 🌐 Conecte-se comigo
 
@@ -17,12 +17,8 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
-
 
 ### 📊 Estatísticas do GitHub
 
@@ -34,18 +30,5 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 ### 🛠️ Ferramentas e Ambiente
 
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-
-
-### 📄 Currículo
-
-<p>
-  <a href="https://github.com/arthurfrota-dev/arthurfrota-dev/blob/main/Curriculum%20Arthur%20Frota.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Visualizar%20Currículo-614987?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
