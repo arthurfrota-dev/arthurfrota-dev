@@ -1,9 +1,8 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&width=500&lines=Prazer%2C+eu+sou+o+Arthur+Frota+%F0%9F%91%8B" alt="Prazer, eu sou o Arthur Frota" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&width=500&lines=Prazer%2C+eu+sou+o+Arthur+Frota!+%F0%9F%91%8B" alt="Prazer, eu sou o Arthur Frota!" />
 </p>
 
 Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com JavaScript e C++, enfrentando desafios para evoluir constantemente como desenvolvedor.
-
 
 ### 🌐 Conecte-se comigo
 
@@ -19,24 +18,21 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 ### 💻 Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/t/arthurfrota-dev/arthurfrota-dev?style=for-the-badge&color=purple&logo=github&label=Commits"/>
-  <img src="https://img.shields.io/github/stars/arthurfrota-dev?style=for-the-badge&color=purple&logo=github&label=Estrelas"/>
+  <img src="https://img.shields.io/github/commit-activity/t/arthurfrota-dev/arthurfrota-dev?style=for-the-badge&color=614987&logo=github&label=Commits"/>
+  <img src="https://img.shields.io/github/stars/arthurfrota-dev?style=for-the-badge&color=614987&logo=github&label=Estrelas"/>
 </p>
 
 ### 🛠️ Ferramentas e Ambiente
 
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-
-
 
 ### 📄 Currículo
 
