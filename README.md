@@ -1,4 +1,8 @@
-<p align="left">
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="Banner Arthur Frota" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&width=500&lines=Prazer%2C+eu+sou+o+Arthur+Frota!+%F0%9F%91%8B" alt="Prazer, eu sou o Arthur Frota!" />
 </p>
 
