@@ -1,6 +1,9 @@
-## 𝙿𝚛𝚊𝚣𝚎𝚛, 𝚎𝚞 𝚜𝚘𝚞 𝚘 𝙰𝚛𝚝𝚑𝚞𝚛 𝙵𝚛𝚘𝚝𝚊
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&width=500&lines=Prazer%2C+eu+sou+o+Arthur+Frota+%F0%9F%91%8B" alt="Prazer, eu sou o Arthur Frota" />
+</p>
 
 Estudante de Ciência da Computação apaixonado por transformar ideias em soluções tecnológicas. Foco no desenvolvimento prático com JavaScript e C++, enfrentando desafios para evoluir constantemente como desenvolvedor.
+
 
 ### 🌐 Conecte-se comigo
 
@@ -32,21 +35,7 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 <p>
   <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 
 
 ### 📄 Currículo
