@@ -41,7 +41,7 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 ### 📄 Currículo
 
 <p>
-  <a href="https://github.com/arthurfrota-dev/arthurfrota-dev/raw/main/curriculo-arthur.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/main/curriculo-arthur.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Visualizar%20Currículo-614987?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
