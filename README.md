@@ -32,7 +32,21 @@ Estudante de Ciência da Computação apaixonado por transformar ideias em solu�
 <p>
   <img src="https://img.shields.io/badge/VS_Code-4A2B82?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurfrota-dev/arthurfrota-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 
 ### 📄 Currículo
